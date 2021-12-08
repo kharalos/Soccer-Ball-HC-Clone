@@ -1,2 +1,2 @@
 # soccer-king-io
- Lonely Soccer Clone
+ Lonely Soccer Hyper Casual Mobile Game Clone
