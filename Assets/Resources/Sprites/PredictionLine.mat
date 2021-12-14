@@ -68,11 +68,11 @@ Material:
     - _OcclusionStrength: 1
     - _Offset: 0.27
     - _Parallax: 0.02
-    - _Rep: 9.07
+    - _Rep: 3
     - _RepeatCount: 100
     - _Sharpness: 100
     - _SmoothnessTextureChannel: 0
-    - _Spacing: 6.92
+    - _Spacing: 7
     - _SpecularHighlights: 1
     - _SrcBlend: 5
     - _Thickness: 2
